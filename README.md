@@ -1,5 +1,7 @@
 # Python Programming Internship Report
 
+![Python Programming](https://raw.githubusercontent.com/yourusername/repo/main/image1.jpg)
+
 **Intern Name:** Arun VK (0105CD231051)  
 **Organization:** Cybrom Technology Pvt. Ltd., Bhopal  
 **Department:** CSE-Data Science  
@@ -114,6 +116,8 @@ Overall, the scope and duration of the internship were well-structured and effec
 
 ## Tools and Technologies Used
 
+![Python Development Environment](https://raw.githubusercontent.com/yourusername/repo/main/image2.jpg)
+
 The successful completion of the Python Programming Internship required the use of various tools and technologies that supported learning and practical implementation. These tools played a significant role in understanding programming concepts and executing Python programs efficiently.
 
 ### Python 3.x
@@ -217,6 +221,8 @@ Overall, understanding Python fundamentals such as variables and data types prov
 ---
 
 ## Control Statements
+
+![Programming Logic: IF-ELSE & LOOPS](https://raw.githubusercontent.com/yourusername/repo/main/image4.jpg)
 
 Control statements are an essential part of programming as they control the flow of execution of a program. They allow a program to make decisions and execute specific blocks of code based on given conditions. Without control statements, programs would execute instructions sequentially without any logical branching.
 
@@ -364,6 +370,8 @@ Overall, the programs performed during the workshop provided hands-on experience
 
 ## Learning Outcomes
 
+![Programming Skill Growth](https://raw.githubusercontent.com/yourusername/repo/main/image5.jpg)
+
 The Python Programming Internship provided valuable learning experiences that contributed significantly to academic and professional development. The internship helped in building a strong foundation in Python programming and enhanced overall technical skills.
 
 ### Technical Knowledge
@@ -448,3 +456,26 @@ Oriental Institute of Science & Technology, Bhopal (M.P.)-462021, India
 **Submitted To:**  
 Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal  
 In partial fulfillment of the requirements for the degree of B.Tech in CSE-Data Science
+
+---
+
+## 📝 Note on Images
+
+To use this README with the provided images, please:
+
+1. Upload the images to your repository
+2. Replace the placeholder image paths with your actual image URLs:
+   - `image1.jpg` → Python programming workspace illustration
+   - `image2.jpg` → Python development tools (Python logo, IDE, Windows)
+   - `image4.jpg` → Programming logic flowchart (IF-ELSE & LOOPS)
+   - `image5.jpg` → Programming skill growth illustration
+
+Example path format:
+```markdown
+![Description](https://raw.githubusercontent.com/username/repository/branch/path/to/image.jpg)
+```
+
+Or for local repository viewing:
+```markdown
+![Description](./images/image1.jpg)
+```
